@@ -1,0 +1,10 @@
+[user]
+	name = xxx
+	email = xxx@xxx.com
+[alias]
+	st = status
+	co = checkout
+	br = branch
+	ci = commit
+[push]
+	default = simple
