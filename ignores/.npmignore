@@ -1,0 +1,29 @@
+# folders
+# =======
+bower_components/
+dist/
+
+# dot files
+# =========
+.travis.yml
+
+# file extensions
+# ===============
+*.db
+*.log # ex: Thumbs.db
+*.map
+*.orig
+*.sublime*
+*.tmp
+
+# root files
+# ==========
+
+# root folders
+# ============
+
+# folders
+# =======
+
+# files
+# =====
