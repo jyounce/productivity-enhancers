@@ -1,0 +1,22 @@
+# ================
+# GLOBAL GITIGNORE
+# ================
+# folders
+# =======
+
+# dot files
+# =========
+.atomignore
+
+# file extensions
+# ===============
+
+# folder files
+# ============
+
+# files
+# =====
+
+# negation
+# ========
+
